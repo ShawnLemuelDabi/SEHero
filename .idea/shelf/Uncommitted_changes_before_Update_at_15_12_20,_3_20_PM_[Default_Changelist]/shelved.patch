@@ -1,0 +1,251 @@
+Index: index.php
+===================================================================
+--- index.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
++++ index.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
+@@ -1,133 +0,0 @@
+-<!doctype html>
+-<html lang="en">
+-<?php
+-include "header.php";
+-?>
+-
+-<body>
+-<?php
+-include "navbar.php";
+-?>
+-
+-<!-- Modules -->
+-<section id="year1" class="features-icons bg-light text-center">
+-    <div class="container">
+-        <h3>Year 1 Trimester 1</h3>
+-        <p class="lead mb-0">Welcome to the party</p>
+-    </div>
+-    <div class="container">
+-        <div class="row">
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+-                    <a href="ict1001.php">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-organization m-auto text-primary"></i>
+-                    </div>
+-                    </a>
+-                    <h3>ICT 1001 / CSC 1001</h3>
+-                    <p class="lead mb-0">Introduction to Computing / Introduction to ICT</p>
+-                </div>
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-screen-desktop m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1002</h3>
+-                    <p class="lead mb-0">Programming Fundamentals</p>
+-                </div>
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-notebook m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1003</h3>
+-                    <p class="lead mb-0">Computer Organization and Architecture</p>
+-                </div>
+-
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-cloud-upload m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1004</h3>
+-                    <p class="lead mb-0">Web Systems and Technologies</p>
+-                </div>
+-
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-calculator m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1005</h3>
+-                    <p class="lead mb-0">Mathematics and Statistics for ICT</p>
+-                </div>
+-
+-            </div>
+-        </div>
+-    </div>
+-</section>
+-<section id="year2" class="features-icons bg-light text-center">
+-    <div class="container">
+-        <h3 id="year2">Year 1 Trimester 2</h3>
+-        <p class="lead mb-0">Get used to it</p>
+-    </div>
+-    <div class="container">
+-        <div class="row">
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-organization m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1001 / CSC 1001</h3>
+-                    <p class="lead mb-0">Introduction to Computing / Introduction to ICT</p>
+-                </div>
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-screen-desktop m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1002</h3>
+-                    <p class="lead mb-0">Programming Fundamentals</p>
+-                </div>
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-notebook m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1003</h3>
+-                    <p class="lead mb-0">Computer Organization and Architecture</p>
+-                </div>
+-
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-cloud-upload m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1004</h3>
+-                    <p class="lead mb-0">Web Systems and Technologies</p>
+-                </div>
+-
+-            </div>
+-            <div class="col-lg-4">
+-                <div class="features-icons-item mx-auto mb-0 mb-lg-3">
+-                    <div class="features-icons-icon d-flex">
+-                        <i class="icon-calculator m-auto text-primary"></i>
+-                    </div>
+-                    <h3>ICT 1005</h3>
+-                    <p class="lead mb-0">Mathematics and Statistics for ICT</p>
+-                </div>
+-
+-            </div>
+-        </div>
+-    </div>
+-</section>
+-
+-</body>
+-</html>
+\ No newline at end of file
+Index: README.md
+===================================================================
+--- README.md	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
++++ README.md	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
+@@ -1,1 +0,0 @@
+-# SEHero
+\ No newline at end of file
+Index: ict1001.php
+===================================================================
+--- ict1001.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
++++ ict1001.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
+@@ -1,15 +0,0 @@
+-<!doctype html>
+-<html lang="en">
+-<?php
+-include "header.php";
+-?>
+-
+-<body>
+-<?php
+-include "navbar.php";
+-?>
+-
+-
+-
+-</body>
+-</html>
+\ No newline at end of file
+Index: header.php
+===================================================================
+--- header.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
++++ header.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
+@@ -1,21 +0,0 @@
+-<head>
+-
+-    <meta charset="utf-8">
+-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+-    <meta name="description" content="">
+-    <meta name="author" content="">
+-
+-    <title>Landing Page - Start Bootstrap Theme</title>
+-
+-    <!-- Bootstrap core CSS -->
+-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+-
+-    <!-- Custom fonts for this template -->
+-    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+-    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+-
+-    <!-- Custom styles for this template -->
+-    <link href="css/landing-page.min.css" rel="stylesheet">
+-
+-</head>
+Index: navbar.php
+===================================================================
+--- navbar.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
++++ navbar.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
+@@ -1,8 +0,0 @@
+-<!-- Navigation -->
+-<nav class="navbar navbar-light bg-light fixed-top">
+-    <div class="container">
+-        <a class="navbar-brand" href="howToUseMe.php">How to use me</a>
+-        <a class="navbar-brand" href="index.php#year1">Year 1</a>
+-        <a class="navbar-brand" href="index.php#year2">Year 2</a>
+-    </div>
+-</nav>
+\ No newline at end of file
+Index: howToUseMe.php
+===================================================================
+--- howToUseMe.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
++++ howToUseMe.php	(revision d9d8b937ae01159985aff400eeda97d5ffe3fd3b)
+@@ -1,39 +0,0 @@
+-<!doctype html>
+-<html lang="en">
+-<?php
+-include "header.php";
+-?>
+-
+-<body>
+-<?php
+-include "navbar.php";
+-?>
+-<!-- User Guide -->
+-<section class="showcase">
+-    <div class="container-fluid p-0">
+-        <div class="row no-gutters">
+-
+-            <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/test1.jpg');"></div>
+-            <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+-                <h2>Choose the module</h2>
+-                <p class="lead mb-0">Content will be updated as I progress through the course</p>
+-            </div>
+-        </div>
+-        <div class="row no-gutters">
+-            <div class="col-lg-6 text-white showcase-img" style="background-image: url('img/bg-showcase-2.jpg');"></div>
+-            <div class="col-lg-6 my-auto showcase-text">
+-                <h2>Recommended Study Approach</h2>
+-                <p class="lead mb-0">This is based on personal study style and recommendations of the A students </p>
+-            </div>
+-        </div>
+-        <div class="row no-gutters">
+-            <div class="col-lg-6 order-lg-2 text-white showcase-img" style="background-image: url('img/bg-showcase-3.jpg');"></div>
+-            <div class="col-lg-6 order-lg-1 my-auto showcase-text">
+-                <h2>Past Year Examinations</h2>
+-                <p class="lead mb-0">It is illegal so I uploaded reworked examples based on what I remember seeing.</p>
+-            </div>
+-        </div>
+-    </div>
+-</section>
+-</body>
+-</html>
