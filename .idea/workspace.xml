@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbae6cd7-3b19-41ea-b97b-e659bbc59508" name="Default Changelist" comment="Added References and Reworked Index" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1ldB5VBQatVcqCq7EKwN309s8mU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PHPProjects\SEHero\References\Original SEHero" />
+      <recent name="F:\PHPProjects\SEHero\Backup" />
+      <recent name="F:\PHPProjects\SEHero\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PHPProjects\SEHero\img" />
+      <recent name="F:\PHPProjects\SEHero" />
+      <recent name="F:\PHPProjects\SEHero\vendor" />
+      <recent name="F:\PHPProjects\SEHero\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbae6cd7-3b19-41ea-b97b-e659bbc59508" name="Default Changelist" comment="" />
+      <created>1607916904789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607916904789</updated>
+      <workItem from="1607916906106" duration="1657000" />
+      <workItem from="1607949189545" duration="30000" />
+      <workItem from="1608007072243" duration="4857000" />
+      <workItem from="1608184843205" duration="12499000" />
+    </task>
+    <task id="LOCAL-00001" summary="Isolated CDNs and PHP-fied the template">
+      <created>1607921864321</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607921864321</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Isolated CDNs and PHP-fied the template">
+      <created>1608015172548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608015172548</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added References and Reworked Index">
+      <created>1608198027245</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608198027245</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Isolated CDNs and PHP-fied the template" />
+    <MESSAGE value="Added References and Reworked Index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added References and Reworked Index" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608191211772">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="397" y="505" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1608191211772" />
+    <state x="370" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608185331390">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="370" y="450" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1608185331390" />
+    <state x="474" y="627" key="NewPhpFileDialog" timestamp="1608009044320">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="474" y="627" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1608009044320" />
+    <state x="141" y="348" key="SettingsEditor" timestamp="1607921749161">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="141" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607921749161" />
+    <state x="232" y="436" key="Vcs.Push.Dialog.v2" timestamp="1608198099208">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="232" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1608198099208" />
+    <state x="1144" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608198081853">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1144" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1608198081853" />
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608184845207">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1097" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1608184845207" />
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1608190743754">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="303" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1608190743754" />
+  </component>
+</project>
