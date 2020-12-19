@@ -4,6 +4,11 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
+/*html, body {*/
+/*  height:100%;*/
+/*  width:100%;*/
+/*}*/
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -103,6 +108,8 @@ h6 {
   }
 
 }
+
+
 
 .showcase .showcase-text {
   padding: 3rem;
