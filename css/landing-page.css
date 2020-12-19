@@ -113,7 +113,13 @@ h6 {
 
 .showcase .showcase-text {
   padding: 3rem;
+  align-content: center;
 }
+
+.showcase .showcase-text h2 {
+  text-align: center;
+}
+
 
 .showcase .showcase-img {
   min-height: 30rem;

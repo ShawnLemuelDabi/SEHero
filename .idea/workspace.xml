@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbae6cd7-3b19-41ea-b97b-e659bbc59508" name="Default Changelist" comment="Added References and Reworked Index">
-      <change afterPath="$PROJECT_DIR$/programFundamentals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compOrgArchi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/landing-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/landing-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introToICT.html" beforeDir="false" afterPath="$PROJECT_DIR$/introToICT.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programFundamentals.html" beforeDir="false" afterPath="$PROJECT_DIR$/programFundamentals.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
