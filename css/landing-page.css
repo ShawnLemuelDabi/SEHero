@@ -159,7 +159,7 @@ h6 {
   font-size: 5rem;
 }
 
-.features-icons .features-icons-item .features-icons-icon #myModal {
+.features-icons .features-icons-item .features-icons-icon #myModal .modal-dialog .modal-content .modal-body {
   justify-content: center;
 }
 

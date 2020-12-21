@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbae6cd7-3b19-41ea-b97b-e659bbc59508" name="Default Changelist" comment="Updated">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_12_20__3_20_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_12_20__3_20_PM__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_12_20__5_46_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_12_20__5_46_PM__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="dbae6cd7-3b19-41ea-b97b-e659bbc59508" name="Default Changelist" comment="Turned External Pages to Modals">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/landing-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/landing-page.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -62,17 +60,17 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\PHPProjects\SEHero\img" />
-      <recent name="F:\PHPProjects\SEHero" />
-      <recent name="F:\PHPProjects\SEHero\vendor" />
-      <recent name="F:\PHPProjects\SEHero\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\PHPProjects\SEHero" />
       <recent name="F:\PHPProjects\SEHero\References\Original SEHero" />
       <recent name="F:\PHPProjects\SEHero\Backup" />
       <recent name="F:\PHPProjects\SEHero\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PHPProjects\SEHero\img" />
+      <recent name="F:\PHPProjects\SEHero" />
+      <recent name="F:\PHPProjects\SEHero\vendor" />
+      <recent name="F:\PHPProjects\SEHero\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -125,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608198263583</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Turned External Pages to Modals">
+      <created>1608516210679</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608516210679</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Isolated CDNs and PHP-fied the template" />
     <MESSAGE value="Added References and Reworked Index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added References and Reworked Index" />
+    <MESSAGE value="Turned External Pages to Modals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Turned External Pages to Modals" />
   </component>
   <component name="WindowStateProjectService">
     <state x="397" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608191211772">
@@ -169,10 +175,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="141" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607921749161" />
-    <state x="232" y="436" key="Vcs.Push.Dialog.v2" timestamp="1608198277834">
+    <state x="232" y="436" key="Vcs.Push.Dialog.v2" timestamp="1608516215341">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="232" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1608198277834" />
+    <state x="232" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1608516215341" />
     <state x="1144" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608198081853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
