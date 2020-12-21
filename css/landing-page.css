@@ -111,32 +111,32 @@ h6 {
 
 }
 
-.showcase .showcase-text {
-  padding: 3rem;
-  align-content: center;
-}
+/*.showcase .showcase-text {*/
+/*  padding: 3rem;*/
+/*  align-content: center;*/
+/*}*/
 
-.showcase .showcase-text h2 {
-  text-align: center;
-}
+/*.showcase .showcase-text h2 {*/
+/*  text-align: center;*/
+/*}*/
 
 
-.showcase .showcase-img {
-  min-height: 30rem;
-  background-size: cover;
-}
+/*.showcase .showcase-img {*/
+/*  min-height: 30rem;*/
+/*  background-size: cover;*/
+/*}*/
 
-.showcase .showcase-vid {
-  min-height: 30rem;
-  background-size: cover;
-  top: 100px;
-}
+/*.showcase .showcase-vid {*/
+/*  min-height: 30rem;*/
+/*  background-size: cover;*/
+/*  top: 100px;*/
+/*}*/
 
-@media (min-width: 768px) {
-  .showcase .showcase-text {
-    padding: 7rem;
-  }
-}
+/*@media (min-width: 768px) {*/
+/*  .showcase .showcase-text {*/
+/*    padding: 7rem;*/
+/*  }*/
+/*}*/
 
 .features-icons {
   padding-top: 7rem;
