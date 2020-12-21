@@ -66,7 +66,9 @@ h6 {
   color: #00BFFF;
 }
 
-
+#myModal .modal-content .modal-body p {
+  justify-content: center;
+}
 
 @media (min-width: 992px) {
   #mainNav {
@@ -108,8 +110,6 @@ h6 {
   }
 
 }
-
-
 
 .showcase .showcase-text {
   padding: 3rem;
@@ -159,6 +159,9 @@ h6 {
   font-size: 5rem;
 }
 
+.features-icons .features-icons-item .features-icons-icon #myModal {
+  justify-content: center;
+}
 
 .call-to-action {
   position: relative;
@@ -192,4 +195,27 @@ a {
 a:hover, a:focus {
   color: #0000AF;
   text-decoration: none;
+}
+
+.btn-outline {
+  color: black;
+  border: 1px solid;
+  border-color: black;
+}
+
+.btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+  color: black;
+  border-color: #008FFF;
+  background-color: #008FFF;
+}
+
+.btn {
+  border-radius: 300px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.btn-xl {
+  font-size: 20px;
+  padding: 15px 45px;
 }
