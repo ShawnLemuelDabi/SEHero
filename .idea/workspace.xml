@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbae6cd7-3b19-41ea-b97b-e659bbc59508" name="Default Changelist" comment="Turned External Pages to Modals">
+    <list default="true" id="dbae6cd7-3b19-41ea-b97b-e659bbc59508" name="Default Changelist" comment="Final 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608524631711</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final 1">
+      <created>1608525251580</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608525251580</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +172,8 @@
     <MESSAGE value="Isolated CDNs and PHP-fied the template" />
     <MESSAGE value="Added References and Reworked Index" />
     <MESSAGE value="Turned External Pages to Modals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Turned External Pages to Modals" />
+    <MESSAGE value="Final 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="397" y="505" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608191211772">
@@ -188,10 +196,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="141" y="348" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1607921749161" />
-    <state x="232" y="436" key="Vcs.Push.Dialog.v2" timestamp="1608524635543">
+    <state x="232" y="436" key="Vcs.Push.Dialog.v2" timestamp="1608525254604">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="232" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1608524635543" />
+    <state x="232" y="436" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1608525254604" />
     <state x="1144" y="434" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608198081853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
